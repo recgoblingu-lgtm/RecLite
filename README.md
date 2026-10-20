@@ -1,6 +1,6 @@
 # RecLite Backend Server
 <p align="center">
-  <img src="assets/your-logo-filename.png" alt="Banner Logo" width="600">
+  <img src="IMG_8543.jpeg" alt="Banner Logo" width="600">
 </p>
 
 RecLite is a full-featured, heavy-duty custom backend server built for 2025-2026 Rec Room clients, providing deep integration with complete inventories, comprehensive account syncing, full event cycles, dynamic room importing pipelines, cloud-backed web endpoints, club management, chat messaging, and player progression systems.
