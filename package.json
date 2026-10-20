@@ -1,0 +1,17 @@
+{
+  "name": "reclite",
+  "version": "2.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev src/index.ts",
+    "deploy": "wrangler deploy src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240314.0",
+    "typescript": "^5.4.2",
+    "wrangler": "^3.34.0"
+  }
+}
