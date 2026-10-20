@@ -1,0 +1,12 @@
+name = "reclite-backend"
+main = "src/index.ts"
+compatibility_date = "2026-03-01"
+
+[vars]
+ENVIRONMENT = "production"
+SERVER_NAME = "RecLite-Core"
+SUPPORTED_CLIENT_VERSION = "2025-2026"
+EXTERNAL_WEB_SYNC_URL = "https://your-website-domain.workers.dev"
+
+[triggers]
+crons = ["0 * * * *"]
