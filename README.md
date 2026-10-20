@@ -19,3 +19,16 @@ RecLite is a full-featured, heavy-duty custom backend server built for 2025-2026
 3. Open your terminal inside the root directory and install dependencies:
    ```bash
    npm install
+
+
+
+
+   Modify ⁠wrangler.toml⁠ and change the ⁠EXTERNAL_WEB_SYNC_URL⁠ variable to point to your website backend domain hosting your user registration frontend.
+   Test the server locally using Wrangler: npm run dev
+Authenticate with your Cloudflare account to prepare for live cloud deployment: npx wrangler login
+Deploy your worker live to Cloudflare:
+npm run deploy
+
+
+Configure your client-side patcher or BepInEx configuration file to direct all RecNet requests and Photon server endpoints to your newly deployed worker URL. 
+
