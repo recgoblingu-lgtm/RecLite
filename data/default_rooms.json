@@ -1,0 +1,24 @@
+[
+  {
+    "roomId": 1,
+    "name": "RecCenter",
+    "description": "The foundational social nexus hub for RecLite clients.",
+    "creatorId": 1,
+    "imageName": "reccenter_main.png",
+    "setMaxPlayers": 40,
+    "isLocked": false,
+    "publishedAt": "2025-01-01T00:00:00Z",
+    "dataBlob": { "sceneType": "Hub", "weather": "Indoor" }
+  },
+  {
+    "roomId": 2,
+    "name": "Orientation",
+    "description": "Tutorial arena environment.",
+    "creatorId": 1,
+    "imageName": "orientation.png",
+    "setMaxPlayers": 16,
+    "isLocked": false,
+    "publishedAt": "2025-01-01T00:00:00Z",
+    "dataBlob": { "sceneType": "Tutorial", "weather": "Clear" }
+  }
+]
