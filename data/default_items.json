@@ -1,0 +1,7 @@
+[
+  { "itemId": 1, "name": "Jotun Hoodie", "category": "Shirt", "rarity": "Legendary", "isGiftable": true, "assetBundleHash": "jotun_hoodie_2025" },
+  { "itemId": 2, "name": "Classic Watch v2", "category": "Watch", "rarity": "Common", "isGiftable": false, "assetBundleHash": "watch_standard" },
+  { "itemId": 3, "name": "Laser Tag Phantom Helmet", "category": "Hat", "rarity": "Epic", "isGiftable": true, "assetBundleHash": "lasertag_helmet" },
+  { "itemId": 4, "name": "Golden Film Trophy", "category": "Prop", "rarity": "Legendary", "isGiftable": true, "assetBundleHash": "film_trophy_gold" },
+  { "itemId": 5, "name": "Paintball Marker - Neon", "category": "Skin", "rarity": "Rare", "isGiftable": true, "assetBundleHash": "pb_marker_neon" }
+]
